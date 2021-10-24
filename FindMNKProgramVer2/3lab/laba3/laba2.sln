@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba3", "laba3.csproj", "{7EC5FC85-ED8B-4B55-9960-23056AF03674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EC5FC85-ED8B-4B55-9960-23056AF03674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC5FC85-ED8B-4B55-9960-23056AF03674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC5FC85-ED8B-4B55-9960-23056AF03674}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7EC5FC85-ED8B-4B55-9960-23056AF03674}.Debug|x86.Build.0 = Debug|Any CPU
+		{7EC5FC85-ED8B-4B55-9960-23056AF03674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC5FC85-ED8B-4B55-9960-23056AF03674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC5FC85-ED8B-4B55-9960-23056AF03674}.Release|x86.ActiveCfg = Release|x86
+		{7EC5FC85-ED8B-4B55-9960-23056AF03674}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D957FC91-9569-4DF0-BBF4-B5376CC6F73E}
+	EndGlobalSection
+EndGlobal
